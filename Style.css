@@ -18,18 +18,14 @@ h2 {
   padding-left: 0px;
   align-self: center;
   font-size: 35px;
-  
 }
 .menu ul {
-    display: flex;
-    list-style: none;
-    
+  display: flex;
+  list-style: none;
 }
 .menu ul a {
   padding: 15px;
   text-decoration: none;
   font-size: 20px;
   text-transform: uppercase;
-
 }
-
